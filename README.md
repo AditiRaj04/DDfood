@@ -1,0 +1,1 @@
+DDFood is a cloud kitchen food delivery service aimed at providing delicious and innovative dishes to customers through online orders. The DDFood website serves as a platform for customers to explore the menu, place orders, and get in touch with the kitchen for inquiries or feedback.
